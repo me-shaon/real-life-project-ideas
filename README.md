@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Project Ideas Banner">
+  <img src="./banner.png" alt="Project Ideas Banner">
 </p>
 
 # Real-life project ideas
